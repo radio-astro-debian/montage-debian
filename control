@@ -1,0 +1,13 @@
+Source: montage
+Section: science
+Priority: optional
+Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://montage.ipac.caltech.edu/
+
+Package: montage
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Montage is a toolkit for assembling FITS images into custom mosaics
+
