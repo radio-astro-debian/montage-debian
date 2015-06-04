@@ -6,3 +6,8 @@ used for
 
 https://launchpad.net/~ska-sa/+archive/main
 
+This package is moved to the Debian git repository at
+
+http://anonscm.debian.org/cgit/debian-astro/packages/montage.git
+
+in order to be included in the next Debian and Ubuntu releases.
